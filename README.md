@@ -3,8 +3,8 @@
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 
 
-### 😎 **Sobre mim**  
-Olá, sou a **Rayane**, desenvolvedora apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa.
+### 👩🏻‍💻 **Sobre mim!**  
+Olá, me chamo **Rayane Jacob**, Técnica em Desenvolvimento de Sistemas e graduanda em Análise e Desenvolvimento de Sistemas, com experiência como professora de informática.
 
 <!--🐱CAT-->
 <p align="center">
