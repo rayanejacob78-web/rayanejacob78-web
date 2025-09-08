@@ -17,7 +17,7 @@ Olá, me chamo **Rayane Jacob**, Técnica em Desenvolvimento de Sistemas e gradu
 <div style="display: flex; justify-content: center; margin-top: 20px;">
 
   </a>
-  <a href="https://www.instagram.com/p/CwEdLL4te3W/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==">
+  <a href="https://www.instagram.com/rayanejacob_/==">
     <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
   </a>
  
